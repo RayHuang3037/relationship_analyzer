@@ -1,0 +1,12 @@
+node_modules/
+target/
+__pycache__/
+.env
+dist/
+*.log
+.DS_Store
+dist-ssr/
+.venv/
+*.py[cod]
+_check.mjs
+.uploads/
